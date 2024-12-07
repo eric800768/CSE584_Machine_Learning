@@ -6,5 +6,6 @@ CSE 584 Machine Learning course assignments.
 [Homework 2 - Eric Chou](./Homework2-Eric_Chou.pdf)
 
 ## Final Project
-[Final Project (Google Sheet) - Eric Chou](https://docs.google.com/spreadsheets/d/1gSTCS4mZ_9wEXrVx_VxKSu6t5CC8NGXgBlTC6NChHX8/edit?usp=sharing)
+[Final Project (Google Sheet) - Eric Chou](https://docs.google.com/spreadsheets/d/1gSTCS4mZ_9wEXrVx_VxKSu6t5CC8NGXgBlTC6NChHX8/edit?usp=sharing)  
+[Final Project Report (PDF) - Eric Chou](./Final%20Project%20Report-Eric_Chou.pdf)
 
